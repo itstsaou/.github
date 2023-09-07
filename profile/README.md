@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We are association that aims
+We are a student organization at [Ohio University](https://www.ohio.edu/) that aims
 
 1. To provide support and foster a sense of togetherness among the Thai students at Ohio University and strengthen our sense of community among ourselves and other members of the larger Ohio University community.
 2. To serve as cultural ambassadors of Thailand and raise awareness of Thailand and Thai culture among the student body at Ohio University for the purpose of fostering cross-cultural understanding and fellowship.
@@ -9,7 +9,6 @@ We are association that aims
 - Join us in [Bobcat Connect](https://ohio.campuslabs.com/engage/organization/thai-student-association)
 - Follow us on [Twitter](https://twitter.com/itstsaou)
 - Follow us on [Instagram](https://www.instagram.com/itstsaou/)
-
 
 <!--
 
