@@ -1,3 +1,7 @@
+# 2024 Thai Night
+
+Get your ticket to 2024 Thai Night at https://tsaou.page/thai-night :tada:
+
 # Hi there 👋
 
 We are a student organization at [Ohio University](https://www.ohio.edu/) that aims
